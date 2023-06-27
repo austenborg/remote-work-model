@@ -5,6 +5,7 @@
  **5/7/2022**
 
 
+
 ## Run Instructions:
 The project has four total files, ```data.ipynb``` and ```model.ipynb```, which are Jupyter Notebooks showing our process, and ```logistic_regression.py``` and ```linear_regression.py```, which contain functions used in ```model.ipynb```. 
 
